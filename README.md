@@ -3,7 +3,7 @@
  * @Author: Crish<714415473@qq.com>
  * @Date: 2020-03-31 09:38:51
  * @LastEditors: Crish<714415473@qq.com>
- * @LastEditTime: 2020-03-31 10:20:52
+ * @LastEditTime: 2020-03-31 10:24:38
  -->
 
 # umi-egg-mysql-docker
@@ -19,7 +19,10 @@
 **启动 mysql 数据库**
 
 ```base
-查看 mysql 文件夹下 START.md 文件
+$ cd mysql
+$ mkdir db
+
+再查看 mysql 文件夹下 START.md 文件
 ```
 
 **启动 egg**
