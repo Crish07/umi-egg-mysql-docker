@@ -3,7 +3,7 @@
  * @Author: Crish<714415473@qq.com>
  * @Date: 2020-03-31 09:38:51
  * @LastEditors: Crish<714415473@qq.com>
- * @LastEditTime: 2020-03-31 10:19:30
+ * @LastEditTime: 2020-03-31 10:20:52
  -->
 
 # umi-egg-mysql-docker
@@ -14,15 +14,13 @@
 
 - 2020-03-01 完成用户登陆验证及用户增删改查
 
-```base
-数据库使用的 mysql; 是在 docker 里面使用的
-```
-
 ## 启动方式
 
 **启动 mysql 数据库**
 
-> 查看 mysql 文件夹下 START.md 文件
+```base
+查看 mysql 文件夹下 START.md 文件
+```
 
 **启动 egg**
 
