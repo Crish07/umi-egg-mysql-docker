@@ -104,7 +104,7 @@ export default class LoginPage extends Component {
               })(
                 <Input
                   prefix={<Icon type="user" style={{ color: 'rgba(0,0,0,.25)' }} />}
-                  placeholder="17358659107"
+                  placeholder="13888888888"
                 />,
               )}
             </Form.Item>
