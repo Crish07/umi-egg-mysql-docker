@@ -1,0 +1,26 @@
+/*
+ * @Descripttion: 登陆页 
+ * @Author: Crish<714415473@qq.com>
+ * @Date: 2020-02-28 18:27:07
+ * @LastEditors: Crish<714415473@qq.com>
+ * @LastEditTime: 2020-03-09 11:41:28
+ */
+
+.login {
+  width: 100%;
+  height: 100%;
+  background: url('/images/login-bj.jpeg') no-repeat center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+}
+
+.loginBox {
+  width: 25%;
+  position: absolute;
+  right: 70px;
+}
+
+.loginForm {
+  padding-top: 20px;
+}

@@ -1,0 +1,22 @@
+{
+  "name": "umi-antd-dva",
+  "version": "1.0.0",
+  "author": "crsih<714415473@qq.com>",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "umi dev",
+    "build": "umi build"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "ant-design-pro": "^2.3.2",
+    "antd": "^3.13.0",
+    "axios": "^0.19.2",
+    "umi-plugin-react": "^1.15.2"
+  },
+  "dependencies": {
+    "dva": "^2.4.1"
+  }
+}
